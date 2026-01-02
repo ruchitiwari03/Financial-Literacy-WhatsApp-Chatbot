@@ -1,0 +1,8 @@
+# For calling the Gemini API
+google-genai
+
+# To securely load the API key from the .env file
+python-dotenv
+flask
+requests
+aiohttp
